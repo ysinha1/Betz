@@ -1,4 +1,4 @@
-# WaveRider
+# Betz
 
 Game betting platform using WAVE platform
 "# AngelHack2018" 
